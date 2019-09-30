@@ -1,0 +1,46 @@
+_repo: The-Missing-Pocket-Book-Or-Tom-Mason-s-Luck_60322
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: White, George G. (George Gorgas)
+    aliases:
+    - White, Geo. G.
+    - White, George Gorgas
+    - White, G. G.
+    deathdate: 1898
+    gutenberg_agent_id: '33888'
+    url: http://www.gutenberg.org/2009/agents/33888
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Castlemon, Henry
+    - Fosdick, Charles Austin
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+    wikipedia: https://en.wikipedia.org/wiki/Harry_Castlemon
+description: ''
+gutenberg_issued: '2019-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Battles -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Farmers -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Cattle breeders -- Juvenile fiction'
+- GITenberg
+title: The Missing Pocket-Book; Or, Tom Mason's Luck
+url: http://www.gutenberg.org/ebooks/60322
